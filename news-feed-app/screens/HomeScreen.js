@@ -22,7 +22,7 @@ export default function HomeScreen() {
           <Image
             source={
               __DEV__
-                ? require('../assets/images/robot-dev.png')
+                ? require('../assets/images/marvin-martian.jpg')
                 : require('../assets/images/robot-prod.png')
             }
             style={styles.welcomeImage}
@@ -40,7 +40,7 @@ export default function HomeScreen() {
           </View>
 
           <Text style={styles.getStartedText}>
-            Hello world!
+           Oh drat these computers. They're so naughty and complex, I could shoot them. 
           </Text>
         </View>
 
