@@ -40,7 +40,7 @@ export default function HomeScreen() {
           </View>
 
           <Text style={styles.getStartedText}>
-           Oh drat these computers. They're so naughty and complex, I could shoot them. 
+            Good grief man! Let's get some coding on.
           </Text>
         </View>
 
