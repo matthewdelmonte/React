@@ -11,7 +11,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          How about a taco salad?
         </p>
 				<div>
 					<h1>My First Practice App</h1>
